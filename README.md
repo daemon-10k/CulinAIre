@@ -29,12 +29,7 @@ This project solves that by **automatically learning patterns** from recipe text
 
 ## Project Workflow
 
-A[Dataset: Ingredients + Instructions] --> B[Data Cleaning & Preprocessing]
-B --> C[Keyword-based Initial Tagging]
-C --> D[Feature Extraction: TF-IDF, Length, Counts]
-D --> E[ML Models: Logistic Regression, Random Forest, XGBoost]
-E --> F[Predictions: Cuisine, Dietary Labels, Difficulty, Time]
-F --> G[Evaluation & Deployment]
+A[Dataset: Ingredients + Instructions] --> B[Data Cleaning & Preprocessing] --> C[Keyword-based Initial Tagging] --> D[Feature Extraction: TF-IDF, Length, Counts] --> E[ML Models: Logistic Regression, Random Forest, XGBoost] --> F[Predictions: Cuisine, Dietary Labels, Difficulty, Time] --> G[Evaluation & Deployment]
 
 Features
 ✅ Cuisine classification using NLP models
