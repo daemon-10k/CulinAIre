@@ -1,6 +1,6 @@
 # 🍽️ Intelligent Recipe Classification & Labeling System
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Recipe+Classification+System)
+![Project Banner](banner.png)
 
 ---
 
